@@ -96,3 +96,15 @@ When introducing a new library, explain why the standard library is insufficient
 
 Optimize for maintainability over cleverness.
 
+## Code Quality
+
+Always keep the project buildable.
+
+Never leave the repository in a broken state.
+
+If introducing a dependency, explain why it is needed.
+
+Prefer deleting code over adding code.
+
+Keep pull requests small and focused.
+
